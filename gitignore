@@ -1,0 +1,15 @@
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.sdf
+*.suo
+*.user
+.vs/
+ipch/

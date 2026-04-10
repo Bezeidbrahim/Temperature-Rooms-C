@@ -1,0 +1,4 @@
+Bedroom;22.5
+Kitchen;25.0
+Bathroom;18.3
+Living Room;23.7
