@@ -2,7 +2,11 @@
 
 > Lab work #1 | MSTU "STANKIN" | Group ИДБ-25-05 | Variant 11
 
-A console program written in **C** that tracks room temperatures using a **Dynamic Link Library (DLL)** architecture.
+> 🎓 This project was developed as part of Lab Work #1 for the
+> "High-Level Language Programming" course at MSTU "STANKIN", Moscow, 2026.
+> It demonstrates the use of C with a Windows DLL architecture to build
+> a modular room temperature tracking system — covering arrays, file I/O,
+> functions, and 2D data structures.
 
 ---
 
